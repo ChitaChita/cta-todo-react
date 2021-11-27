@@ -10,4 +10,3 @@ const DATA = [
 ];
 
 ReactDOM.render(<App tasks={DATA} />, document.getElementById("root"));
-ReactDOM.render(<App subject="Clarice" />, document.getElementById('root'));
